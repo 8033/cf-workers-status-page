@@ -31,8 +31,8 @@ monitors:
     expectStatus: 200
     
   - id: go-eded-cc
-    name: g.eded.cc
+    name: go.eded.cc
     #dscription: 'Built for anything connected to the Internet.'
-    url: 'https://go.eded.cc/'
+    url: 'https://go.eded.cc/-----https://www.google.com/222'
     method: GET
-    expectStatus: 200
+    expectStatus: 404

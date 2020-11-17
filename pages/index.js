@@ -56,7 +56,7 @@ export default function Index({
         <title>{config.settings.title}</title>
         <link
           rel="stylesheet"
-          href="https://cdnjs.cloudflare.com/ajax/libs/fomantic-ui/2.8.7/semantic.min.css"
+          href="https://cdn.jsdelivr.net/npm/fomantic-ui@2.8.7/dist/semantic.min.css"
           crossOrigin="anonymous"
         />
         <link rel="stylesheet" href="./main.css" />

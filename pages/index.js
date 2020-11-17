@@ -118,14 +118,6 @@ export default function Index({
               Flareact{' '}
             </a>
           </div>
-          <div>
-            <a
-              href="https://github.com/eidam/cf-workers-status-page"
-              target="_blank"
-            >
-              Get Your Status Page
-            </a>
-          </div>
         </div>
       </div>
     </div>
